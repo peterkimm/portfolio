@@ -15,7 +15,7 @@ const Work = () => {
 
 
             {/* Container */}
-            <div className='grid sm:grid-cols-2 md:grid-cols-2 gap-4 animate-pulse'>
+            <div className='grid sm:grid-cols-2 md:grid-cols-2 gap-4'>
                 {/* Grid Item */}
                 <div style={{backgroundImage: `url(${Pro1})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 

@@ -13,7 +13,7 @@ const About = () => {
                 </div>
                 <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
                     <div className='sm:text-right text-4xl font-bold'>
-                        <p>Hi! I'm Peter, nice to meet you. I would love to work/collab with you. </p>
+                        <p>Hello! I'm Peter, nice to meet you. I would love to work/collab with you. </p>
                     </div>
                     <div>
                         <p>I am a full-stack software engineer that recently graduated from a bootcamp called General Assembly, an intensive, twelve-week, 450+ hour program focused on product development fundamentals, object-oriented programming, MVC frameworks, data modeling, and team collaboration strategies.
